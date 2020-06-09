@@ -1,1 +1,1 @@
-# resto-theme-wp
+# RESTO THEME WP
